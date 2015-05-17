@@ -1,0 +1,1 @@
+A simple implementation of a Ray Tracing algorithm to spheres, planes and boxes. Some features: reflection; refraction; textures (only on boxes); normal mapping; depth of field; specular bloom (even through reflection and refraction); shadows. It's using Phong shading.
